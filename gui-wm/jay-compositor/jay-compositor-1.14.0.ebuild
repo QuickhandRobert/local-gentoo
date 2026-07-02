@@ -99,6 +99,7 @@ CRATES="
 	jay-compositor@1.14.0
 	jay-algorithms@0.4.0
 	jay-config@1.12.0
+	jay-proc@0.1.0
 	jay-toml-config@0.14.0
 	js-sys@0.3.103
 	kbvm-proc@0.2.0
