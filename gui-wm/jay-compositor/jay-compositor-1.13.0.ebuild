@@ -95,10 +95,10 @@ CRATES="
 	itertools@0.14.0
 	itoa@1.0.18
 	jay-ash@0.5.0+1.4.349
-	jay-compositor@1.13.0
+	jay-compositor@1.14.0
 	jay-algorithms@0.4.0
-	jay-config@1.11.0
-	jay-toml-config@0.13.0
+	jay-config@1.12.0
+	jay-toml-config@0.14.0
 	js-sys@0.3.95
 	kbvm-proc@0.2.0
 	kbvm@0.1.6
