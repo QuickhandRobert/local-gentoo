@@ -1,4 +1,4 @@
-EAPI=2
+EAPI=8
 
 
 DSCRIPTION="Jalali calendar library"
