@@ -18,7 +18,7 @@ RDEPEND="
 		x11-libs/libxkbcommon
 "
 DEPEND="
-		virtual/pkgconf
+		virtual/pkgconfig
 		dev-libs/wayland-protocols
 "
 src_prepare() {
