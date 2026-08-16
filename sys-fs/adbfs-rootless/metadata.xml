@@ -8,4 +8,4 @@
         <upstream>
 		<remote-id type="github">spion/adbfs-rootless</remote-id>
         </upstream>
-</pkgmetadata>`
+</pkgmetadata>
