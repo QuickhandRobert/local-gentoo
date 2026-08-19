@@ -275,7 +275,7 @@ SRC_URI="
 	${CARGO_CRATE_URIS}
 "
 
-LICENSE="GPL-3.0"
+LICENSE="GPL-3"
 # Dependent crate licenses
 LICENSE+="
 	Apache-2.0-with-LLVM-exceptions BSD-2 BSD CC0-1.0 ISC MIT MPL-2.0
